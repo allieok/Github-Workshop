@@ -8,7 +8,7 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 ### Branching
 * Press on current branch main
 * Click on new branch
-* Give it a name
+* Give it a name !!
 
 ### First commit
 - Write something here: 
